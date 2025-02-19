@@ -1,0 +1,462 @@
+ano,var_cruz,categoria,subcategoria,percentual
+2005,Faixa etária,Sim,16 a 29 anos,11
+2005,Faixa etária,Sim,30 a 39 anos,25
+2005,Faixa etária,Sim,40 a 49 anos,23
+2005,Faixa etária,Sim,50 a 59 anos,13
+2005,Faixa etária,Sim,60 ou mais,15
+2005,Faixa etária,Não,16 a 29 anos,89
+2005,Faixa etária,Não,30 a 39 anos,75
+2005,Faixa etária,Não,40 a 49 anos,75
+2005,Faixa etária,Não,50 a 59 anos,87
+2005,Faixa etária,Não,60 ou mais,84
+2005,Faixa etária,NS/NR,16 a 29 anos,0
+2005,Faixa etária,NS/NR,30 a 39 anos,0
+2005,Faixa etária,NS/NR,40 a 49 anos,1
+2005,Faixa etária,NS/NR,50 a 59 anos,0
+2005,Faixa etária,NS/NR,60 ou mais,1
+2005,Escolaridade,Sim,Até ensino fundamental,25
+2005,Escolaridade,Sim,Ensino médio completo,15
+2005,Escolaridade,Sim,Ensino superior completo ou mais,11
+2005,Escolaridade,Não,Até ensino fundamental,74
+2005,Escolaridade,Não,Ensino médio completo,85
+2005,Escolaridade,Não,Ensino superior completo ou mais,89
+2005,Escolaridade,NS/NR,Até ensino fundamental,1
+2005,Escolaridade,NS/NR,Ensino médio completo,0
+2005,Escolaridade,NS/NR,Ensino superior completo ou mais,0
+2005,Região,Sim,Centro-Oeste,15
+2005,Região,Sim,Nordeste,19
+2005,Região,Sim,Norte,23
+2005,Região,Sim,Sudeste,15
+2005,Região,Sim,Sul,22
+2005,Região,Não,Centro-Oeste,84
+2005,Região,Não,Nordeste,80
+2005,Região,Não,Norte,75
+2005,Região,Não,Sudeste,85
+2005,Região,Não,Sul,78
+2005,Região,NS/NR,Centro-Oeste,1
+2005,Região,NS/NR,Nordeste,0
+2005,Região,NS/NR,Norte,1
+2005,Região,NS/NR,Sudeste,0
+2005,Região,NS/NR,Sul,0
+2007,Faixa etária,Sim,16 a 29 anos,10
+2007,Faixa etária,Sim,30 a 39 anos,15
+2007,Faixa etária,Sim,40 a 49 anos,20
+2007,Faixa etária,Sim,50 a 59 anos,19
+2007,Faixa etária,Sim,60 ou mais,18
+2007,Faixa etária,Não,16 a 29 anos,90
+2007,Faixa etária,Não,30 a 39 anos,85
+2007,Faixa etária,Não,40 a 49 anos,80
+2007,Faixa etária,Não,50 a 59 anos,81
+2007,Faixa etária,Não,60 ou mais,82
+2007,Escolaridade,Sim,Até ensino fundamental,22
+2007,Escolaridade,Sim,Ensino médio completo,14
+2007,Escolaridade,Sim,Ensino superior completo ou mais,8
+2007,Escolaridade,Não,Até ensino fundamental,78
+2007,Escolaridade,Não,Ensino médio completo,86
+2007,Escolaridade,Não,Ensino superior completo ou mais,92
+2007,Região,Sim,Centro-Oeste,14
+2007,Região,Sim,Nordeste,15
+2007,Região,Sim,Norte,21
+2007,Região,Sim,Sudeste,15
+2007,Região,Sim,Sul,13
+2007,Região,Não,Centro-Oeste,86
+2007,Região,Não,Nordeste,85
+2007,Região,Não,Norte,79
+2007,Região,Não,Sudeste,85
+2007,Região,Não,Sul,87
+2009,Faixa etária,Sim,16 a 29 anos,16
+2009,Faixa etária,Sim,30 a 39 anos,20
+2009,Faixa etária,Sim,40 a 49 anos,18
+2009,Faixa etária,Sim,50 a 59 anos,31
+2009,Faixa etária,Sim,60 ou mais,12
+2009,Faixa etária,Não,16 a 29 anos,84
+2009,Faixa etária,Não,30 a 39 anos,80
+2009,Faixa etária,Não,40 a 49 anos,81
+2009,Faixa etária,Não,50 a 59 anos,69
+2009,Faixa etária,Não,60 ou mais,88
+2009,Faixa etária,NS/NR,16 a 29 anos,0
+2009,Faixa etária,NS/NR,30 a 39 anos,0
+2009,Faixa etária,NS/NR,40 a 49 anos,1
+2009,Faixa etária,NS/NR,50 a 59 anos,0
+2009,Faixa etária,NS/NR,60 ou mais,0
+2009,Escolaridade,Sim,Até ensino fundamental,26
+2009,Escolaridade,Sim,Ensino médio completo,19
+2009,Escolaridade,Sim,Ensino superior completo ou mais,13
+2009,Escolaridade,Não,Até ensino fundamental,74
+2009,Escolaridade,Não,Ensino médio completo,81
+2009,Escolaridade,Não,Ensino superior completo ou mais,87
+2009,Escolaridade,NS/NR,Até ensino fundamental,0
+2009,Escolaridade,NS/NR,Ensino médio completo,0
+2009,Escolaridade,NS/NR,Ensino superior completo ou mais,0
+2009,Região,Sim,Centro-Oeste,19
+2009,Região,Sim,Nordeste,18
+2009,Região,Sim,Norte,17
+2009,Região,Sim,Sudeste,20
+2009,Região,Sim,Sul,23
+2009,Região,Não,Centro-Oeste,81
+2009,Região,Não,Nordeste,81
+2009,Região,Não,Norte,83
+2009,Região,Não,Sudeste,80
+2009,Região,Não,Sul,77
+2009,Região,NS/NR,Centro-Oeste,0
+2009,Região,NS/NR,Nordeste,1
+2009,Região,NS/NR,Norte,0
+2009,Região,NS/NR,Sudeste,0
+2009,Região,NS/NR,Sul,0
+2011,Faixa etária,Sim,16 a 29 anos,14
+2011,Faixa etária,Sim,30 a 39 anos,20
+2011,Faixa etária,Sim,40 a 49 anos,18
+2011,Faixa etária,Sim,50 a 59 anos,25
+2011,Faixa etária,Sim,60 ou mais,20
+2011,Faixa etária,Não,16 a 29 anos,86
+2011,Faixa etária,Não,30 a 39 anos,80
+2011,Faixa etária,Não,40 a 49 anos,82
+2011,Faixa etária,Não,50 a 59 anos,75
+2011,Faixa etária,Não,60 ou mais,80
+2011,Faixa etária,NS/NR,16 a 29 anos,0
+2011,Faixa etária,NS/NR,30 a 39 anos,0
+2011,Faixa etária,NS/NR,40 a 49 anos,0
+2011,Faixa etária,NS/NR,50 a 59 anos,0
+2011,Faixa etária,NS/NR,60 ou mais,0
+2011,Escolaridade,Sim,Até ensino fundamental,25
+2011,Escolaridade,Sim,Ensino médio completo,18
+2011,Escolaridade,Sim,Ensino superior completo ou mais,11
+2011,Escolaridade,Não,Até ensino fundamental,75
+2011,Escolaridade,Não,Ensino médio completo,82
+2011,Escolaridade,Não,Ensino superior completo ou mais,89
+2011,Escolaridade,NS/NR,Até ensino fundamental,0
+2011,Escolaridade,NS/NR,Ensino médio completo,0
+2011,Escolaridade,NS/NR,Ensino superior completo ou mais,0
+2011,Região,Sim,Centro-Oeste,21
+2011,Região,Sim,Nordeste,17
+2011,Região,Sim,Norte,20
+2011,Região,Sim,Sudeste,20
+2011,Região,Sim,Sul,18
+2011,Região,Não,Centro-Oeste,79
+2011,Região,Não,Nordeste,83
+2011,Região,Não,Norte,80
+2011,Região,Não,Sudeste,80
+2011,Região,Não,Sul,82
+2011,Região,NS/NR,Centro-Oeste,0
+2011,Região,NS/NR,Nordeste,0
+2011,Região,NS/NR,Norte,0
+2011,Região,NS/NR,Sudeste,0
+2011,Região,NS/NR,Sul,0
+2011,Cor/raça,Sim,Branca,16
+2011,Cor/raça,Sim,Preta / Parda,22
+2011,Cor/raça,Sim,Amarela / Indígena,20
+2011,Cor/raça,Não,Branca,84
+2011,Cor/raça,Não,Preta / Parda,78
+2011,Cor/raça,Não,Amarela / Indígena,80
+2011,Cor/raça,NS/NR,Branca,0
+2011,Cor/raça,NS/NR,Preta / Parda,0
+2011,Cor/raça,NS/NR,Amarela / Indígena,0
+2013,Faixa etária,Sim,16 a 29 anos,13
+2013,Faixa etária,Sim,30 a 39 anos,21
+2013,Faixa etária,Sim,40 a 49 anos,26
+2013,Faixa etária,Sim,50 a 59 anos,20
+2013,Faixa etária,Sim,60 ou mais,15
+2013,Faixa etária,Não,16 a 29 anos,87
+2013,Faixa etária,Não,30 a 39 anos,79
+2013,Faixa etária,Não,40 a 49 anos,74
+2013,Faixa etária,Não,50 a 59 anos,79
+2013,Faixa etária,Não,60 ou mais,85
+2013,Faixa etária,NS/NR,16 a 29 anos,0
+2013,Faixa etária,NS/NR,30 a 39 anos,0
+2013,Faixa etária,NS/NR,40 a 49 anos,0
+2013,Faixa etária,NS/NR,50 a 59 anos,1
+2013,Faixa etária,NS/NR,60 ou mais,0
+2013,Escolaridade,Sim,Até ensino fundamental,24
+2013,Escolaridade,Sim,Ensino médio completo,19
+2013,Escolaridade,Sim,Ensino superior completo ou mais,14
+2013,Escolaridade,Não,Até ensino fundamental,76
+2013,Escolaridade,Não,Ensino médio completo,81
+2013,Escolaridade,Não,Ensino superior completo ou mais,86
+2013,Escolaridade,NS/NR,Até ensino fundamental,0
+2013,Escolaridade,NS/NR,Ensino médio completo,0
+2013,Escolaridade,NS/NR,Ensino superior completo ou mais,0
+2013,Região,Sim,Centro-Oeste,18
+2013,Região,Sim,Nordeste,22
+2013,Região,Sim,Norte,10
+2013,Região,Sim,Sudeste,19
+2013,Região,Sim,Sul,17
+2013,Região,Não,Centro-Oeste,82
+2013,Região,Não,Nordeste,78
+2013,Região,Não,Norte,90
+2013,Região,Não,Sudeste,81
+2013,Região,Não,Sul,82
+2013,Região,NS/NR,Centro-Oeste,0
+2013,Região,NS/NR,Nordeste,0
+2013,Região,NS/NR,Norte,0
+2013,Região,NS/NR,Sudeste,0
+2013,Região,NS/NR,Sul,1
+2013,Cor/raça,Sim,Branca,16
+2013,Cor/raça,Sim,Preta / Parda,21
+2013,Cor/raça,Sim,Amarela / Indígena,23
+2013,Cor/raça,Não,Branca,84
+2013,Cor/raça,Não,Preta / Parda,79
+2013,Cor/raça,Não,Amarela / Indígena,77
+2013,Cor/raça,NS/NR,Branca,0
+2013,Cor/raça,NS/NR,Preta / Parda,0
+2013,Cor/raça,NS/NR,Amarela / Indígena,0
+2015,Região,Sim,Norte,21
+2015,Região,Sim,Nordeste,19
+2015,Região,Sim,Sudeste,18
+2015,Região,Sim,Sul,18
+2015,Região,Sim,Centro-Oeste,17
+2015,Região,Não,Norte,79
+2015,Região,Não,Nordeste,81
+2015,Região,Não,Sudeste,82
+2015,Região,Não,Sul,82
+2015,Região,Não,Centro-Oeste,83
+2015,Região,NS/NR,Norte,0
+2015,Região,NS/NR,Nordeste,0
+2015,Região,NS/NR,Sudeste,0
+2015,Região,NS/NR,Sul,0
+2015,Região,NS/NR,Centro-Oeste,0
+2015,Faixa etária,Sim,16 a 29 anos,11
+2015,Faixa etária,Sim,30 a 39 anos,19
+2015,Faixa etária,Sim,40 a 49 anos,22
+2015,Faixa etária,Sim,50 a 59 anos,25
+2015,Faixa etária,Sim,60 ou mais,20
+2015,Faixa etária,Não,16 a 29 anos,89
+2015,Faixa etária,Não,30 a 39 anos,81
+2015,Faixa etária,Não,40 a 49 anos,78
+2015,Faixa etária,Não,50 a 59 anos,75
+2015,Faixa etária,Não,60 ou mais,80
+2015,Faixa etária,NS/NR,16 a 29 anos,0
+2015,Faixa etária,NS/NR,30 a 39 anos,0
+2015,Faixa etária,NS/NR,40 a 49 anos,0
+2015,Faixa etária,NS/NR,50 a 59 anos,0
+2015,Faixa etária,NS/NR,60 ou mais,0
+2015,Escolaridade,Sim,Até ensino fundamental,27
+2015,Escolaridade,Sim,Ensino médio completo,18
+2015,Escolaridade,Sim,Ensino superior completo ou mais,12
+2015,Escolaridade,Não,Até ensino fundamental,73
+2015,Escolaridade,Não,Ensino médio completo,82
+2015,Escolaridade,Não,Ensino superior completo ou mais,87
+2015,Escolaridade,NS/NR,Até ensino fundamental,0
+2015,Escolaridade,NS/NR,Ensino médio completo,0
+2015,Escolaridade,NS/NR,Ensino superior completo ou mais,0
+2015,Cor/raça,Sim,Branca,17
+2015,Cor/raça,Sim,Preta / Parda,18
+2015,Cor/raça,Não,Branca,83
+2015,Cor/raça,Não,Preta / Parda,82
+2015,Cor/raça,NS/NR,Branca,0
+2015,Cor/raça,NS/NR,Preta / Parda,0
+2017,Faixa etária,Sim,16 a 29 anos,23
+2017,Faixa etária,Sim,30 a 39 anos,35
+2017,Faixa etária,Sim,40 a 49 anos,23
+2017,Faixa etária,Sim,50 a 59 anos,37
+2017,Faixa etária,Sim,60 ou mais,31
+2017,Faixa etária,Não,16 a 29 anos,77
+2017,Faixa etária,Não,30 a 39 anos,65
+2017,Faixa etária,Não,40 a 49 anos,77
+2017,Faixa etária,Não,50 a 59 anos,63
+2017,Faixa etária,Não,60 ou mais,69
+2017,Faixa etária,NS/NR,16 a 29 anos,1
+2017,Faixa etária,NS/NR,30 a 39 anos,0
+2017,Faixa etária,NS/NR,40 a 49 anos,0
+2017,Faixa etária,NS/NR,50 a 59 anos,0
+2017,Faixa etária,NS/NR,60 ou mais,0
+2017,Escolaridade,Sim,Até ensino fundamental,33
+2017,Escolaridade,Sim,Ensino médio completo,27
+2017,Escolaridade,Sim,Ensino superior completo ou mais,22
+2017,Escolaridade,Não,Até ensino fundamental,66
+2017,Escolaridade,Não,Ensino médio completo,73
+2017,Escolaridade,Não,Ensino superior completo ou mais,78
+2017,Escolaridade,NS/NR,Até ensino fundamental,0
+2017,Escolaridade,NS/NR,Ensino médio completo,0
+2017,Escolaridade,NS/NR,Ensino superior completo ou mais,0
+2017,Cor/raça,Sim,Branca,28
+2017,Cor/raça,Sim,Preta / Parda,31
+2017,Cor/raça,Sim,Amarela / Indígena,27
+2017,Cor/raça,Não,Branca,72
+2017,Cor/raça,Não,Preta / Parda,69
+2017,Cor/raça,Não,Amarela / Indígena,73
+2017,Cor/raça,NS/NR,Branca,0
+2017,Cor/raça,NS/NR,Preta / Parda,0
+2017,Cor/raça,NS/NR,Amarela / Indígena,0
+2017,Região,Sim,Centro-Oeste,30
+2017,Região,Sim,Nordeste,28
+2017,Região,Sim,Norte,29
+2017,Região,Sim,Sudeste,30
+2017,Região,Sim,Sul,29
+2017,Região,Não,Centro-Oeste,70
+2017,Região,Não,Nordeste,71
+2017,Região,Não,Norte,71
+2017,Região,Não,Sudeste,70
+2017,Região,Não,Sul,71
+2017,Região,NS/NR,Centro-Oeste,0
+2017,Região,NS/NR,Nordeste,1
+2017,Região,NS/NR,Norte,0
+2017,Região,NS/NR,Sudeste,0
+2017,Região,NS/NR,Sul,0
+2019,Região,Sim,Norte,27
+2019,Região,Sim,Nordeste,27
+2019,Região,Sim,Sudeste,26
+2019,Região,Sim,Sul,28
+2019,Região,Sim,Centro-Oeste,30
+2019,Região,Não,Norte,73
+2019,Região,Não,Nordeste,72
+2019,Região,Não,Sudeste,74
+2019,Região,Não,Sul,72
+2019,Região,Não,Centro-Oeste,70
+2019,Região,NS/NR,Norte,1
+2019,Região,NS/NR,Nordeste,1
+2019,Região,NS/NR,Sudeste,0
+2019,Região,NS/NR,Sul,0
+2019,Região,NS/NR,Centro-Oeste,0
+2019,Faixa etária,Sim,16 a 29 anos,26
+2019,Faixa etária,Sim,30 a 39 anos,31
+2019,Faixa etária,Sim,40 a 49 anos,30
+2019,Faixa etária,Sim,50 a 59 anos,28
+2019,Faixa etária,Sim,60 ou mais,22
+2019,Faixa etária,Não,16 a 29 anos,74
+2019,Faixa etária,Não,30 a 39 anos,69
+2019,Faixa etária,Não,40 a 49 anos,70
+2019,Faixa etária,Não,50 a 59 anos,71
+2019,Faixa etária,Não,60 ou mais,78
+2019,Faixa etária,NS/NR,16 a 29 anos,1
+2019,Faixa etária,NS/NR,30 a 39 anos,0
+2019,Faixa etária,NS/NR,40 a 49 anos,0
+2019,Faixa etária,NS/NR,50 a 59 anos,1
+2019,Faixa etária,NS/NR,60 ou mais,0
+2019,Escolaridade,Sim,Até ensino fundamental,28
+2019,Escolaridade,Sim,Ensino médio completo,27
+2019,Escolaridade,Sim,Ensino superior completo ou mais,24
+2019,Escolaridade,Não,Até ensino fundamental,71
+2019,Escolaridade,Não,Ensino médio completo,73
+2019,Escolaridade,Não,Ensino superior completo ou mais,76
+2019,Escolaridade,NS/NR,Até ensino fundamental,1
+2019,Escolaridade,NS/NR,Ensino médio completo,0
+2019,Escolaridade,NS/NR,Ensino superior completo ou mais,0
+2019,Cor/raça,Sim,Branca,25
+2019,Cor/raça,Sim,Preta / Parda,29
+2019,Cor/raça,Sim,Amarela / Indígena,23
+2019,Cor/raça,Não,Branca,75
+2019,Cor/raça,Não,Preta / Parda,70
+2019,Cor/raça,Não,Amarela / Indígena,76
+2019,Cor/raça,NS/NR,Branca,0
+2019,Cor/raça,NS/NR,Preta / Parda,1
+2019,Cor/raça,NS/NR,Amarela / Indígena,1
+2021,Região,Sim,Norte,29
+2021,Região,Sim,Nordeste,25
+2021,Região,Sim,Sudeste,27
+2021,Região,Sim,Sul,27
+2021,Região,Sim,Centro-Oeste,30
+2021,Região,Não,Norte,71
+2021,Região,Não,Nordeste,74
+2021,Região,Não,Sudeste,72
+2021,Região,Não,Sul,72
+2021,Região,Não,Centro-Oeste,69
+2021,Região,NS/NR,Norte,0
+2021,Região,NS/NR,Nordeste,0
+2021,Região,NS/NR,Sudeste,0
+2021,Região,NS/NR,Sul,0
+2021,Região,NS/NR,Centro-Oeste,1
+2021,Faixa etária,Sim,16 a 29 anos,26
+2021,Faixa etária,Sim,30 a 39 anos,31
+2021,Faixa etária,Sim,40 a 49 anos,37
+2021,Faixa etária,Sim,50 a 59 anos,24
+2021,Faixa etária,Sim,60 ou mais,19
+2021,Faixa etária,Não,16 a 29 anos,73
+2021,Faixa etária,Não,30 a 39 anos,69
+2021,Faixa etária,Não,40 a 49 anos,63
+2021,Faixa etária,Não,50 a 59 anos,76
+2021,Faixa etária,Não,60 ou mais,81
+2021,Faixa etária,NS/NR,16 a 29 anos,1
+2021,Faixa etária,NS/NR,30 a 39 anos,0
+2021,Faixa etária,NS/NR,40 a 49 anos,0
+2021,Faixa etária,NS/NR,50 a 59 anos,0
+2021,Faixa etária,NS/NR,60 ou mais,0
+2021,Escolaridade,Sim,Até ensino fundamental,29
+2021,Escolaridade,Sim,Ensino médio completo,27
+2021,Escolaridade,Sim,Ensino superior completo ou mais,23
+2021,Escolaridade,Não,Até ensino fundamental,71
+2021,Escolaridade,Não,Ensino médio completo,73
+2021,Escolaridade,Não,Ensino superior completo ou mais,77
+2021,Escolaridade,NS/NR,Até ensino fundamental,1
+2021,Escolaridade,NS/NR,Ensino médio completo,0
+2021,Escolaridade,NS/NR,Ensino superior completo ou mais,0
+2021,Cor/raça,Sim,Branca,25
+2021,Cor/raça,Sim,Preta / Parda,28
+2021,Cor/raça,Sim,Amarela / Indígena,49
+2021,Cor/raça,Não,Branca,75
+2021,Cor/raça,Não,Preta / Parda,71
+2021,Cor/raça,Não,Amarela / Indígena,51
+2021,Cor/raça,NS/NR,Branca,0
+2021,Cor/raça,NS/NR,Preta / Parda,0
+2021,Cor/raça,NS/NR,Amarela / Indígena,0
+2023,Escolaridade,Sim,Até ensino fundamental,34
+2023,Escolaridade,Sim,Ensino médio completo,30
+2023,Escolaridade,Sim,Ensino superior completo ou mais,24
+2023,Escolaridade,Não,Até ensino fundamental,66
+2023,Escolaridade,Não,Ensino médio completo,70
+2023,Escolaridade,Não,Ensino superior completo ou mais,76
+2023,Escolaridade,NS/NR,Até ensino fundamental,1
+2023,Escolaridade,NS/NR,Ensino médio completo,0
+2023,Escolaridade,NS/NR,Ensino superior completo ou mais,0
+2023,Faixa etária,Sim,16 a 29 anos,29
+2023,Faixa etária,Sim,30 a 39 anos,36
+2023,Faixa etária,Sim,40 a 49 anos,38
+2023,Faixa etária,Sim,50 a 59 anos,28
+2023,Faixa etária,Sim,60 ou mais,23
+2023,Faixa etária,Não,16 a 29 anos,71
+2023,Faixa etária,Não,30 a 39 anos,64
+2023,Faixa etária,Não,40 a 49 anos,61
+2023,Faixa etária,Não,50 a 59 anos,72
+2023,Faixa etária,Não,60 ou mais,76
+2023,Faixa etária,NS/NR,16 a 29 anos,0
+2023,Faixa etária,NS/NR,30 a 39 anos,0
+2023,Faixa etária,NS/NR,40 a 49 anos,0
+2023,Faixa etária,NS/NR,50 a 59 anos,1
+2023,Faixa etária,NS/NR,60 ou mais,1
+2023,Cor/raça,Sim,Branca,29
+2023,Cor/raça,Sim,Preta / Parda,31
+2023,Cor/raça,Sim,Amarela / Indígena,31
+2023,Cor/raça,Não,Branca,70
+2023,Cor/raça,Não,Preta / Parda,68
+2023,Cor/raça,Não,Amarela / Indígena,68
+2023,Cor/raça,NS/NR,Branca,1
+2023,Cor/raça,NS/NR,Preta / Parda,0
+2023,Cor/raça,NS/NR,Amarela / Indígena,1
+2023,Região,Sim,Norte,34
+2023,Região,Sim,Nordeste,28
+2023,Região,Sim,Sudeste,31
+2023,Região,Sim,Sul,31
+2023,Região,Sim,Centro-Oeste,31
+2023,Região,Não,Norte,66
+2023,Região,Não,Nordeste,72
+2023,Região,Não,Sudeste,68
+2023,Região,Não,Sul,68
+2023,Região,Não,Centro-Oeste,69
+2023,Região,NS/NR,Norte,0
+2023,Região,NS/NR,Nordeste,0
+2023,Região,NS/NR,Sudeste,0
+2023,Região,NS/NR,Sul,1
+2023,Região,NS/NR,Centro-Oeste,0
+2023,Rendimento familiar bruto,Sim,Até 2,35
+2023,Rendimento familiar bruto,Sim,Entre 2 e 6,28
+2023,Rendimento familiar bruto,Sim,Mais de 6,20
+2023,Rendimento familiar bruto,Não,Até 2,65
+2023,Rendimento familiar bruto,Não,Entre 2 e 6,72
+2023,Rendimento familiar bruto,Não,Mais de 6,80
+2023,Rendimento familiar bruto,NS/NR,Até 2,0
+2023,Rendimento familiar bruto,NS/NR,Entre 2 e 6,0
+2023,Rendimento familiar bruto,NS/NR,Mais de 6,0
+2023,Religião,Sim,Católica,25
+2023,Religião,Sim,Evangélica,34
+2023,Religião,Sim,Outras/Sem religião,35
+2023,Religião,Não,Católica,74
+2023,Religião,Não,Evangélica,65
+2023,Religião,Não,Outras/Sem religião,64
+2023,Religião,NS/NR,Católica,0
+2023,Religião,NS/NR,Evangélica,0
+2023,Religião,NS/NR,Outras/Sem religião,0
+2023,Situação de domicílio,Sim,Urbana,31
+2023,Situação de domicílio,Sim,Rural,26
+2023,Situação de domicílio,Não,Urbana,68
+2023,Situação de domicílio,Não,Rural,74
+2023,Situação de domicílio,NS/NR,Urbana,0
+2023,Situação de domicílio,NS/NR,Rural,1

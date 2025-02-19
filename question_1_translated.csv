@@ -1,0 +1,462 @@
+year,category,subcategory,answer,percentage
+2005,Age range,16 to 29 years old,Yes,11
+2005,Age range,30 to 39 years old,Yes,25
+2005,Age range,40 to 49 years old,Yes,23
+2005,Age range,50 to 59 years old,Yes,13
+2005,Age range,60 or more,Yes,15
+2005,Age range,16 to 29 years old,No,89
+2005,Age range,30 to 39 years old,No,75
+2005,Age range,40 to 49 years old,No,75
+2005,Age range,50 to 59 years old,No,87
+2005,Age range,60 or more,No,84
+2005,Age range,16 to 29 years old,NS/NR,0
+2005,Age range,30 to 39 years old,NS/NR,0
+2005,Age range,40 to 49 years old,NS/NR,1
+2005,Age range,50 to 59 years old,NS/NR,0
+2005,Age range,60 or more,NS/NR,1
+2005,Education,Up to elementary school,Yes,25
+2005,Education,Completed high school,Yes,15
+2005,Education,Completed higher education or more,Yes,11
+2005,Education,Up to elementary school,No,74
+2005,Education,Completed high school,No,85
+2005,Education,Completed higher education or more,No,89
+2005,Education,Up to elementary school,NS/NR,1
+2005,Education,Completed high school,NS/NR,0
+2005,Education,Completed higher education or more,NS/NR,0
+2005,Region,Midwest,Yes,15
+2005,Region,North East,Yes,19
+2005,Region,North,Yes,23
+2005,Region,Southeast,Yes,15
+2005,Region,South,Yes,22
+2005,Region,Midwest,No,84
+2005,Region,North East,No,80
+2005,Region,North,No,75
+2005,Region,Southeast,No,85
+2005,Region,South,No,78
+2005,Region,Midwest,NS/NR,1
+2005,Region,North East,NS/NR,0
+2005,Region,North,NS/NR,1
+2005,Region,Southeast,NS/NR,0
+2005,Region,South,NS/NR,0
+2007,Age range,16 to 29 years old,Yes,10
+2007,Age range,30 to 39 years old,Yes,15
+2007,Age range,40 to 49 years old,Yes,20
+2007,Age range,50 to 59 years old,Yes,19
+2007,Age range,60 or more,Yes,18
+2007,Age range,16 to 29 years old,No,90
+2007,Age range,30 to 39 years old,No,85
+2007,Age range,40 to 49 years old,No,80
+2007,Age range,50 to 59 years old,No,81
+2007,Age range,60 or more,No,82
+2007,Education,Up to elementary school,Yes,22
+2007,Education,Completed high school,Yes,14
+2007,Education,Completed higher education or more,Yes,8
+2007,Education,Up to elementary school,No,78
+2007,Education,Completed high school,No,86
+2007,Education,Completed higher education or more,No,92
+2007,Region,Midwest,Yes,14
+2007,Region,North East,Yes,15
+2007,Region,North,Yes,21
+2007,Region,Southeast,Yes,15
+2007,Region,South,Yes,13
+2007,Region,Midwest,No,86
+2007,Region,North East,No,85
+2007,Region,North,No,79
+2007,Region,Southeast,No,85
+2007,Region,South,No,87
+2009,Age range,16 to 29 years old,Yes,16
+2009,Age range,30 to 39 years old,Yes,20
+2009,Age range,40 to 49 years old,Yes,18
+2009,Age range,50 to 59 years old,Yes,31
+2009,Age range,60 or more,Yes,12
+2009,Age range,16 to 29 years old,No,84
+2009,Age range,30 to 39 years old,No,80
+2009,Age range,40 to 49 years old,No,81
+2009,Age range,50 to 59 years old,No,69
+2009,Age range,60 or more,No,88
+2009,Age range,16 to 29 years old,NS/NR,0
+2009,Age range,30 to 39 years old,NS/NR,0
+2009,Age range,40 to 49 years old,NS/NR,1
+2009,Age range,50 to 59 years old,NS/NR,0
+2009,Age range,60 or more,NS/NR,0
+2009,Education,Up to elementary school,Yes,26
+2009,Education,Completed high school,Yes,19
+2009,Education,Completed higher education or more,Yes,13
+2009,Education,Up to elementary school,No,74
+2009,Education,Completed high school,No,81
+2009,Education,Completed higher education or more,No,87
+2009,Education,Up to elementary school,NS/NR,0
+2009,Education,Completed high school,NS/NR,0
+2009,Education,Completed higher education or more,NS/NR,0
+2009,Region,Midwest,Yes,19
+2009,Region,North East,Yes,18
+2009,Region,North,Yes,17
+2009,Region,Southeast,Yes,20
+2009,Region,South,Yes,23
+2009,Region,Midwest,No,81
+2009,Region,North East,No,81
+2009,Region,North,No,83
+2009,Region,Southeast,No,80
+2009,Region,South,No,77
+2009,Region,Midwest,NS/NR,0
+2009,Region,North East,NS/NR,1
+2009,Region,North,NS/NR,0
+2009,Region,Southeast,NS/NR,0
+2009,Region,South,NS/NR,0
+2011,Age range,16 to 29 years old,Yes,14
+2011,Age range,30 to 39 years old,Yes,20
+2011,Age range,40 to 49 years old,Yes,18
+2011,Age range,50 to 59 years old,Yes,25
+2011,Age range,60 or more,Yes,20
+2011,Age range,16 to 29 years old,No,86
+2011,Age range,30 to 39 years old,No,80
+2011,Age range,40 to 49 years old,No,82
+2011,Age range,50 to 59 years old,No,75
+2011,Age range,60 or more,No,80
+2011,Age range,16 to 29 years old,NS/NR,0
+2011,Age range,30 to 39 years old,NS/NR,0
+2011,Age range,40 to 49 years old,NS/NR,0
+2011,Age range,50 to 59 years old,NS/NR,0
+2011,Age range,60 or more,NS/NR,0
+2011,Education,Up to elementary school,Yes,25
+2011,Education,Completed high school,Yes,18
+2011,Education,Completed higher education or more,Yes,11
+2011,Education,Up to elementary school,No,75
+2011,Education,Completed high school,No,82
+2011,Education,Completed higher education or more,No,89
+2011,Education,Up to elementary school,NS/NR,0
+2011,Education,Completed high school,NS/NR,0
+2011,Education,Completed higher education or more,NS/NR,0
+2011,Region,Midwest,Yes,21
+2011,Region,North East,Yes,17
+2011,Region,North,Yes,20
+2011,Region,Southeast,Yes,20
+2011,Region,South,Yes,18
+2011,Region,Midwest,No,79
+2011,Region,North East,No,83
+2011,Region,North,No,80
+2011,Region,Southeast,No,80
+2011,Region,South,No,82
+2011,Region,Midwest,NS/NR,0
+2011,Region,North East,NS/NR,0
+2011,Region,North,NS/NR,0
+2011,Region,Southeast,NS/NR,0
+2011,Region,South,NS/NR,0
+2011,Color/race,White,Yes,16
+2011,Color/race,Black / Brown,Yes,22
+2011,Color/race,Yellow / Indigenous,Yes,20
+2011,Color/race,White,No,84
+2011,Color/race,Black / Brown,No,78
+2011,Color/race,Yellow / Indigenous,No,80
+2011,Color/race,White,NS/NR,0
+2011,Color/race,Black / Brown,NS/NR,0
+2011,Color/race,Yellow / Indigenous,NS/NR,0
+2013,Age range,16 to 29 years old,Yes,13
+2013,Age range,30 to 39 years old,Yes,21
+2013,Age range,40 to 49 years old,Yes,26
+2013,Age range,50 to 59 years old,Yes,20
+2013,Age range,60 or more,Yes,15
+2013,Age range,16 to 29 years old,No,87
+2013,Age range,30 to 39 years old,No,79
+2013,Age range,40 to 49 years old,No,74
+2013,Age range,50 to 59 years old,No,79
+2013,Age range,60 or more,No,85
+2013,Age range,16 to 29 years old,NS/NR,0
+2013,Age range,30 to 39 years old,NS/NR,0
+2013,Age range,40 to 49 years old,NS/NR,0
+2013,Age range,50 to 59 years old,NS/NR,1
+2013,Age range,60 or more,NS/NR,0
+2013,Education,Up to elementary school,Yes,24
+2013,Education,Completed high school,Yes,19
+2013,Education,Completed higher education or more,Yes,14
+2013,Education,Up to elementary school,No,76
+2013,Education,Completed high school,No,81
+2013,Education,Completed higher education or more,No,86
+2013,Education,Up to elementary school,NS/NR,0
+2013,Education,Completed high school,NS/NR,0
+2013,Education,Completed higher education or more,NS/NR,0
+2013,Region,Midwest,Yes,18
+2013,Region,North East,Yes,22
+2013,Region,North,Yes,10
+2013,Region,Southeast,Yes,19
+2013,Region,South,Yes,17
+2013,Region,Midwest,No,82
+2013,Region,North East,No,78
+2013,Region,North,No,90
+2013,Region,Southeast,No,81
+2013,Region,South,No,82
+2013,Region,Midwest,NS/NR,0
+2013,Region,North East,NS/NR,0
+2013,Region,North,NS/NR,0
+2013,Region,Southeast,NS/NR,0
+2013,Region,South,NS/NR,1
+2013,Color/race,White,Yes,16
+2013,Color/race,Black / Brown,Yes,21
+2013,Color/race,Yellow / Indigenous,Yes,23
+2013,Color/race,White,No,84
+2013,Color/race,Black / Brown,No,79
+2013,Color/race,Yellow / Indigenous,No,77
+2013,Color/race,White,NS/NR,0
+2013,Color/race,Black / Brown,NS/NR,0
+2013,Color/race,Yellow / Indigenous,NS/NR,0
+2015,Region,North,Yes,21
+2015,Region,North East,Yes,19
+2015,Region,Southeast,Yes,18
+2015,Region,South,Yes,18
+2015,Region,Midwest,Yes,17
+2015,Region,North,No,79
+2015,Region,North East,No,81
+2015,Region,Southeast,No,82
+2015,Region,South,No,82
+2015,Region,Midwest,No,83
+2015,Region,North,NS/NR,0
+2015,Region,North East,NS/NR,0
+2015,Region,Southeast,NS/NR,0
+2015,Region,South,NS/NR,0
+2015,Region,Midwest,NS/NR,0
+2015,Age range,16 to 29 years old,Yes,11
+2015,Age range,30 to 39 years old,Yes,19
+2015,Age range,40 to 49 years old,Yes,22
+2015,Age range,50 to 59 years old,Yes,25
+2015,Age range,60 or more,Yes,20
+2015,Age range,16 to 29 years old,No,89
+2015,Age range,30 to 39 years old,No,81
+2015,Age range,40 to 49 years old,No,78
+2015,Age range,50 to 59 years old,No,75
+2015,Age range,60 or more,No,80
+2015,Age range,16 to 29 years old,NS/NR,0
+2015,Age range,30 to 39 years old,NS/NR,0
+2015,Age range,40 to 49 years old,NS/NR,0
+2015,Age range,50 to 59 years old,NS/NR,0
+2015,Age range,60 or more,NS/NR,0
+2015,Education,Up to elementary school,Yes,27
+2015,Education,Completed high school,Yes,18
+2015,Education,Completed higher education or more,Yes,12
+2015,Education,Up to elementary school,No,73
+2015,Education,Completed high school,No,82
+2015,Education,Completed higher education or more,No,87
+2015,Education,Up to elementary school,NS/NR,0
+2015,Education,Completed high school,NS/NR,0
+2015,Education,Completed higher education or more,NS/NR,0
+2015,Color/race,White,Yes,17
+2015,Color/race,Black / Brown,Yes,18
+2015,Color/race,White,No,83
+2015,Color/race,Black / Brown,No,82
+2015,Color/race,White,NS/NR,0
+2015,Color/race,Black / Brown,NS/NR,0
+2017,Age range,16 to 29 years old,Yes,23
+2017,Age range,30 to 39 years old,Yes,35
+2017,Age range,40 to 49 years old,Yes,23
+2017,Age range,50 to 59 years old,Yes,37
+2017,Age range,60 or more,Yes,31
+2017,Age range,16 to 29 years old,No,77
+2017,Age range,30 to 39 years old,No,65
+2017,Age range,40 to 49 years old,No,77
+2017,Age range,50 to 59 years old,No,63
+2017,Age range,60 or more,No,69
+2017,Age range,16 to 29 years old,NS/NR,1
+2017,Age range,30 to 39 years old,NS/NR,0
+2017,Age range,40 to 49 years old,NS/NR,0
+2017,Age range,50 to 59 years old,NS/NR,0
+2017,Age range,60 or more,NS/NR,0
+2017,Education,Up to elementary school,Yes,33
+2017,Education,Completed high school,Yes,27
+2017,Education,Completed higher education or more,Yes,22
+2017,Education,Up to elementary school,No,66
+2017,Education,Completed high school,No,73
+2017,Education,Completed higher education or more,No,78
+2017,Education,Up to elementary school,NS/NR,0
+2017,Education,Completed high school,NS/NR,0
+2017,Education,Completed higher education or more,NS/NR,0
+2017,Color/race,White,Yes,28
+2017,Color/race,Black / Brown,Yes,31
+2017,Color/race,Yellow / Indigenous,Yes,27
+2017,Color/race,White,No,72
+2017,Color/race,Black / Brown,No,69
+2017,Color/race,Yellow / Indigenous,No,73
+2017,Color/race,White,NS/NR,0
+2017,Color/race,Black / Brown,NS/NR,0
+2017,Color/race,Yellow / Indigenous,NS/NR,0
+2017,Region,Midwest,Yes,30
+2017,Region,North East,Yes,28
+2017,Region,North,Yes,29
+2017,Region,Southeast,Yes,30
+2017,Region,South,Yes,29
+2017,Region,Midwest,No,70
+2017,Region,North East,No,71
+2017,Region,North,No,71
+2017,Region,Southeast,No,70
+2017,Region,South,No,71
+2017,Region,Midwest,NS/NR,0
+2017,Region,North East,NS/NR,1
+2017,Region,North,NS/NR,0
+2017,Region,Southeast,NS/NR,0
+2017,Region,South,NS/NR,0
+2019,Region,North,Yes,27
+2019,Region,North East,Yes,27
+2019,Region,Southeast,Yes,26
+2019,Region,South,Yes,28
+2019,Region,Midwest,Yes,30
+2019,Region,North,No,73
+2019,Region,North East,No,72
+2019,Region,Southeast,No,74
+2019,Region,South,No,72
+2019,Region,Midwest,No,70
+2019,Region,North,NS/NR,1
+2019,Region,North East,NS/NR,1
+2019,Region,Southeast,NS/NR,0
+2019,Region,South,NS/NR,0
+2019,Region,Midwest,NS/NR,0
+2019,Age range,16 to 29 years old,Yes,26
+2019,Age range,30 to 39 years old,Yes,31
+2019,Age range,40 to 49 years old,Yes,30
+2019,Age range,50 to 59 years old,Yes,28
+2019,Age range,60 or more,Yes,22
+2019,Age range,16 to 29 years old,No,74
+2019,Age range,30 to 39 years old,No,69
+2019,Age range,40 to 49 years old,No,70
+2019,Age range,50 to 59 years old,No,71
+2019,Age range,60 or more,No,78
+2019,Age range,16 to 29 years old,NS/NR,1
+2019,Age range,30 to 39 years old,NS/NR,0
+2019,Age range,40 to 49 years old,NS/NR,0
+2019,Age range,50 to 59 years old,NS/NR,1
+2019,Age range,60 or more,NS/NR,0
+2019,Education,Up to elementary school,Yes,28
+2019,Education,Completed high school,Yes,27
+2019,Education,Completed higher education or more,Yes,24
+2019,Education,Up to elementary school,No,71
+2019,Education,Completed high school,No,73
+2019,Education,Completed higher education or more,No,76
+2019,Education,Up to elementary school,NS/NR,1
+2019,Education,Completed high school,NS/NR,0
+2019,Education,Completed higher education or more,NS/NR,0
+2019,Color/race,White,Yes,25
+2019,Color/race,Black / Brown,Yes,29
+2019,Color/race,Yellow / Indigenous,Yes,23
+2019,Color/race,White,No,75
+2019,Color/race,Black / Brown,No,70
+2019,Color/race,Yellow / Indigenous,No,76
+2019,Color/race,White,NS/NR,0
+2019,Color/race,Black / Brown,NS/NR,1
+2019,Color/race,Yellow / Indigenous,NS/NR,1
+2021,Region,North,Yes,29
+2021,Region,North East,Yes,25
+2021,Region,Southeast,Yes,27
+2021,Region,South,Yes,27
+2021,Region,Midwest,Yes,30
+2021,Region,North,No,71
+2021,Region,North East,No,74
+2021,Region,Southeast,No,72
+2021,Region,South,No,72
+2021,Region,Midwest,No,69
+2021,Region,North,NS/NR,0
+2021,Region,North East,NS/NR,0
+2021,Region,Southeast,NS/NR,0
+2021,Region,South,NS/NR,0
+2021,Region,Midwest,NS/NR,1
+2021,Age range,16 to 29 years old,Yes,26
+2021,Age range,30 to 39 years old,Yes,31
+2021,Age range,40 to 49 years old,Yes,37
+2021,Age range,50 to 59 years old,Yes,24
+2021,Age range,60 or more,Yes,19
+2021,Age range,16 to 29 years old,No,73
+2021,Age range,30 to 39 years old,No,69
+2021,Age range,40 to 49 years old,No,63
+2021,Age range,50 to 59 years old,No,76
+2021,Age range,60 or more,No,81
+2021,Age range,16 to 29 years old,NS/NR,1
+2021,Age range,30 to 39 years old,NS/NR,0
+2021,Age range,40 to 49 years old,NS/NR,0
+2021,Age range,50 to 59 years old,NS/NR,0
+2021,Age range,60 or more,NS/NR,0
+2021,Education,Up to elementary school,Yes,29
+2021,Education,Completed high school,Yes,27
+2021,Education,Completed higher education or more,Yes,23
+2021,Education,Up to elementary school,No,71
+2021,Education,Completed high school,No,73
+2021,Education,Completed higher education or more,No,77
+2021,Education,Up to elementary school,NS/NR,1
+2021,Education,Completed high school,NS/NR,0
+2021,Education,Completed higher education or more,NS/NR,0
+2021,Color/race,White,Yes,25
+2021,Color/race,Black / Brown,Yes,28
+2021,Color/race,Yellow / Indigenous,Yes,49
+2021,Color/race,White,No,75
+2021,Color/race,Black / Brown,No,71
+2021,Color/race,Yellow / Indigenous,No,51
+2021,Color/race,White,NS/NR,0
+2021,Color/race,Black / Brown,NS/NR,0
+2021,Color/race,Yellow / Indigenous,NS/NR,0
+2023,Education,Up to elementary school,Yes,34
+2023,Education,Completed high school,Yes,30
+2023,Education,Completed higher education or more,Yes,24
+2023,Education,Up to elementary school,No,66
+2023,Education,Completed high school,No,70
+2023,Education,Completed higher education or more,No,76
+2023,Education,Up to elementary school,NS/NR,1
+2023,Education,Completed high school,NS/NR,0
+2023,Education,Completed higher education or more,NS/NR,0
+2023,Age range,16 to 29 years old,Yes,29
+2023,Age range,30 to 39 years old,Yes,36
+2023,Age range,40 to 49 years old,Yes,38
+2023,Age range,50 to 59 years old,Yes,28
+2023,Age range,60 or more,Yes,23
+2023,Age range,16 to 29 years old,No,71
+2023,Age range,30 to 39 years old,No,64
+2023,Age range,40 to 49 years old,No,61
+2023,Age range,50 to 59 years old,No,72
+2023,Age range,60 or more,No,76
+2023,Age range,16 to 29 years old,NS/NR,0
+2023,Age range,30 to 39 years old,NS/NR,0
+2023,Age range,40 to 49 years old,NS/NR,0
+2023,Age range,50 to 59 years old,NS/NR,1
+2023,Age range,60 or more,NS/NR,1
+2023,Color/race,White,Yes,29
+2023,Color/race,Black / Brown,Yes,31
+2023,Color/race,Yellow / Indigenous,Yes,31
+2023,Color/race,White,No,70
+2023,Color/race,Black / Brown,No,68
+2023,Color/race,Yellow / Indigenous,No,68
+2023,Color/race,White,NS/NR,1
+2023,Color/race,Black / Brown,NS/NR,0
+2023,Color/race,Yellow / Indigenous,NS/NR,1
+2023,Region,North,Yes,34
+2023,Region,North East,Yes,28
+2023,Region,Southeast,Yes,31
+2023,Region,South,Yes,31
+2023,Region,Midwest,Yes,31
+2023,Region,North,No,66
+2023,Region,North East,No,72
+2023,Region,Southeast,No,68
+2023,Region,South,No,68
+2023,Region,Midwest,No,69
+2023,Region,North,NS/NR,0
+2023,Region,North East,NS/NR,0
+2023,Region,Southeast,NS/NR,0
+2023,Region,South,NS/NR,1
+2023,Region,Midwest,NS/NR,0
+2023,Gross family income,Up to 2,Yes,35
+2023,Gross family income,Between 2 and 6,Yes,28
+2023,Gross family income,More than 6,Yes,20
+2023,Gross family income,Up to 2,No,65
+2023,Gross family income,Between 2 and 6,No,72
+2023,Gross family income,More than 6,No,80
+2023,Gross family income,Up to 2,NS/NR,0
+2023,Gross family income,Between 2 and 6,NS/NR,0
+2023,Gross family income,More than 6,NS/NR,0
+2023,Religion,Catholic,Yes,25
+2023,Religion,Evangelical,Yes,34
+2023,Religion,Other/No religion,Yes,35
+2023,Religion,Catholic,No,74
+2023,Religion,Evangelical,No,65
+2023,Religion,Other/No religion,No,64
+2023,Religion,Catholic,NS/NR,0
+2023,Religion,Evangelical,NS/NR,0
+2023,Religion,Other/No religion,NS/NR,0
+2023,Domicile situation,Urban,Yes,31
+2023,Domicile situation,Rural,Yes,26
+2023,Domicile situation,Urban,No,68
+2023,Domicile situation,Rural,No,74
+2023,Domicile situation,Urban,NS/NR,0
+2023,Domicile situation,Rural,NS/NR,1
